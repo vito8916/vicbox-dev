@@ -192,6 +192,8 @@ dist
 # Generated files
 .idea/**/contentModel.xml
 .idea
+.idea/**
+.idea/untitled.iml
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
